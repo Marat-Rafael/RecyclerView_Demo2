@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RecyclerView_Demo2</string>
+
+    <string-array name="programing_languages">
+       <item>C++</item>
+       <item>C#</item>
+       <item>Java</item>
+       <item>JavaScript</item>
+       <item>Kotlin</item>
+       <item>Python</item>
+       <item>Ruby</item>
+       <item>Swift</item>
+       <item>TypeScript</item>
+       <item>Visual Studio</item>
+    </string-array>
+
+    <string-array name="discription">
+        <item>C++ discription </item>
+        <item>C# discription</item>
+        <item>Java discription</item>
+        <item>JavaScript discription</item>
+        <item>Kotlin discription</item>
+        <item>Python discription</item>
+        <item>Ruby discription</item>
+        <item>Swift discription</item>
+        <item>TypeScript discription</item>
+        <item>Visual Studio discription</item>
+    </string-array>
+
+</resources>
